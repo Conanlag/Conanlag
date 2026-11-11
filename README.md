@@ -160,7 +160,8 @@ University of Guadalajara — CUCEI
 
 ## Let's Connect
 
-- 📧 **Email:** [albertoleonelmejia.04@gmail.com](mailto:albertoleonelmejia.04@gmail.com)
-- 💼 **GitHub:** [github.com/Conanlag](https://github.com/Conanlag)
+## Let's Connect
 
+- 💼 **GitHub:** [github.com/Conanlag](https://github.com/Conanlag)
+- 💼 **LinkedIn:** [linkedin.com/in/alberto-mejia-11352a336](https://www.linkedin.com/in/alberto-mejia-11352a336/)
 ---
