@@ -158,22 +158,9 @@ University of Guadalajara — CUCEI
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Conanlag&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conanlag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 - 📧 **Email:** [albertoleonelmejia.04@gmail.com](mailto:albertoleonelmejia.04@gmail.com)
 - 💼 **GitHub:** [github.com/Conanlag](https://github.com/Conanlag)
 
 ---
-
-<p align="center">
-  <i>"Technology is most interesting when different areas of engineering come together to solve meaningful problems."</i>
-</p>
